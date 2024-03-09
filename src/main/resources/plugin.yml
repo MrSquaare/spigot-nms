@@ -1,0 +1,4 @@
+name: "spigot"
+author: "MrSquaare <contact@mrsquaare.fr>"
+version: "1.0-SNAPSHOT"
+main: "fr.mrsquaare.spigot.Main"

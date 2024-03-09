@@ -1,0 +1,5 @@
+dependencies {
+    compileOnly project(':core')
+
+    compileOnly group: 'org.spigotmc', name: 'spigot', version: '1.15-R0.1-SNAPSHOT'
+}
